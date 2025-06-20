@@ -71,3 +71,20 @@ Clear roles and responsibilities ensure alignment, accountability, and smooth pr
 | **Scrum Master**        | Facilitates daily standups, sprint planning, reviews, and retrospectives. Removes blockers and ensures the team follows Agile practices.                      |
 
 Each role plays a critical part in delivering a high-quality, scalable, and user-friendly Airbnb-like platform.
+
+## 🧩 UI Component Patterns
+
+This project will use reusable and scalable UI components to ensure a consistent look and feel across all pages. Below are the key components planned:
+
+| Component         | Description                                                                                                                                                       |
+| ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Navbar**        | A responsive navigation bar that includes the logo, search bar, and navigation links such as Home, Explore, and Login/Signup. Adapts to mobile and desktop views. |
+| **Property Card** | Displays summary info of each property including image, title, location, rating, and price per night. Used in grid/list views.                                    |
+| **Footer**        | Contains navigation links, contact info, social media icons, and legal disclaimers. Styled to match the brand and provide quick access to important info.         |
+| **Search Bar**    | A location/date/guests search input used in the navbar and landing page. May include filters like price range and amenities.                                      |
+| **Hero Section**  | A full-width section on the landing page with a call to action, background image, and search bar for engagement.                                                  |
+| **Modal**         | Used for login/signup forms, property booking, or alerts. Designed to be accessible and reusable across features.                                                 |
+| **Button**        | A consistent button component that supports different states (hover, disabled, loading) and sizes (primary, secondary).                                           |
+| **Badge/Tag**     | Small UI elements used to highlight features such as “New,” “Superhost,” or “Pet Friendly.”                                                                       |
+
+These components will be built using **React**, styled with **Tailwind CSS**, and follow atomic design principles to maximize reusability and scalability.
