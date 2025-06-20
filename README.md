@@ -54,3 +54,20 @@ A user-friendly design is critical in a booking system because:
 - It improves **accessibility**, making the platform usable for people of all abilities.
 
 Great UI/UX = better conversions and happier users 🏡✨
+
+## 👥 Project Roles and Responsibilities
+
+Clear roles and responsibilities ensure alignment, accountability, and smooth project execution. Below is a breakdown of key roles in this project and their primary responsibilities:
+
+| Role                    | Responsibilities                                                                                                                                              |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Project Manager**     | Oversees timelines, milestones, and task allocation. Acts as the bridge between technical and non-technical teams. Manages scope and delivery.                |
+| **Frontend Developers** | Implement UI components using React/Next.js. Ensure responsiveness, accessibility, and integration with backend APIs. Handle routing, state, and performance. |
+| **Backend Developers**  | Build and maintain server-side logic, APIs, authentication, and database management. Ensure security and scalability of the backend.                          |
+| **Designers (UI/UX)**   | Craft wireframes, mockups, and interactive prototypes. Ensure user-centered design, brand consistency, and intuitive navigation.                              |
+| **QA/Testers**          | Test the application manually and/or through automation to ensure features work as expected. Identify bugs, usability issues, and regressions.                |
+| **DevOps Engineers**    | Set up CI/CD pipelines, manage deployments, monitor application performance, and handle infrastructure using tools like Vercel or GitHub Actions.             |
+| **Product Owner**       | Defines project vision, prioritizes backlog items, and ensures the product meets business needs. Provides feedback to the team regularly.                     |
+| **Scrum Master**        | Facilitates daily standups, sprint planning, reviews, and retrospectives. Removes blockers and ensures the team follows Agile practices.                      |
+
+Each role plays a critical part in delivering a high-quality, scalable, and user-friendly Airbnb-like platform.
